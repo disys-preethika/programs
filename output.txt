@@ -1,0 +1,141 @@
+Python 3.9.7 (tags/v3.9.7:1016ef3, Aug 30 2021, 20:19:38) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: C:\Users\Preethika.Lakshmanan\AppData\Local\Programs\Python\Python39\harddisk.py
+hello-ever
+{'description': 'realme c20', 'price': '34000', 'rating': '4.5'}
+{'description': 'realme c20', 'price': '34000', 'rating': '4.5'}
+{'description': 'realme c2', 'price': '16000', 'rating': '4.5'}
+{'description': 'realme c2', 'price': '16000', 'rating': '4.5'}
+{'description': 'redmi', 'price': '30000', 'rating': '4.3'}
+{'description': 'redmi', 'price': '30000', 'rating': '4.3'}
+>>> 
+= RESTART: C:\Users\Preethika.Lakshmanan\AppData\Local\Programs\Python\Python39\harddisk.py
+hello-ever
+{'description': 'realme c20', 'price': '34000', 'rating': '4.5'}
+{'description': 'realme c20', 'price': '34000', 'rating': '4.5'}
+{'description': 'realme c2', 'price': '16000', 'rating': '4.5'}
+{'description': 'realme c2', 'price': '16000', 'rating': '4.5'}
+{'description': 'redmi', 'price': '30000', 'rating': '4.3'}
+{'description': 'redmi', 'price': '30000', 'rating': '4.3'}
+>>> joy("positive")
+<generator object joy at 0x000002AF337D2040>
+>>> joy
+<function joy at 0x000002AF33890280>
+>>> type(joy)
+<class 'function'>
+>>> smile=joy("positive")
+>>> smile
+<generator object joy at 0x000002AF337D2040>
+>>> next
+<built-in function next>
+>>> next(smile)
+keep smiling
+'disys'
+>>> next(smile)
+live lifelong
+Traceback (most recent call last):
+  File "<pyshell#7>", line 1, in <module>
+    next(smile)
+StopIteration
+>>> StopIteration
+<class 'StopIteration'>
+>>> 
+====================================== RESTART: C:\Users\Preethika.Lakshmanan\AppData\Local\Programs\Python\Python39\harddisk.py ======================================
+hello-ever
+{'description': 'realme c20', 'price': '34000', 'rating': '4.5'}
+{'description': 'realme c20', 'price': '34000', 'rating': '4.5'}
+{'description': 'realme c2', 'price': '16000', 'rating': '4.5'}
+{'description': 'realme c2', 'price': '16000', 'rating': '4.5'}
+{'description': 'redmi', 'price': '30000', 'rating': '4.3'}
+{'description': 'redmi', 'price': '30000', 'rating': '4.3'}
+kill problems with smile
+good empty pocket
+>>> 
+====================================== RESTART: C:\Users\Preethika.Lakshmanan\AppData\Local\Programs\Python\Python39\harddisk.py ======================================
+hello-ever
+{'description': 'realme c20', 'price': '34000', 'rating': '4.5'}
+{'description': 'realme c20', 'price': '34000', 'rating': '4.5'}
+{'description': 'realme c2', 'price': '16000', 'rating': '4.5'}
+{'description': 'realme c2', 'price': '16000', 'rating': '4.5'}
+{'description': 'redmi', 'price': '30000', 'rating': '4.3'}
+{'description': 'redmi', 'price': '30000', 'rating': '4.3'}
+kill problems with smile
+good empty pocket
+>>> running("Ecr","annanagar","t nagar")
+Ecr
+annanagar
+t nagar
+>>> smile=joy("positive")
+>>> next(smile)
+keep smiling
+'disys'
+>>> next(smile)
+live lifelong
+Traceback (most recent call last):
+  File "<pyshell#16>", line 1, in <module>
+    next(smile)
+StopIteration
+>>> running(smile="laughing",angry="temper")
+Traceback (most recent call last):
+  File "<pyshell#17>", line 1, in <module>
+    running(smile="laughing",angry="temper")
+TypeError: running() got an unexpected keyword argument 'smile'
+>>> running(smile="laugh",angry="temper")
+Traceback (most recent call last):
+  File "<pyshell#18>", line 1, in <module>
+    running(smile="laugh",angry="temper")
+TypeError: running() got an unexpected keyword argument 'smile'
+>>> obj={"smile":"laugh","angry":"temper"}
+>>> obj.values()
+dict_values(['laugh', 'temper'])
+>>> obj.items()
+dict_items([('smile', 'laugh'), ('angry', 'temper')])
+>>> running(val=1,val1=2)
+Traceback (most recent call last):
+  File "<pyshell#22>", line 1, in <module>
+    running(val=1,val1=2)
+TypeError: running() got an unexpected keyword argument 'val'
+>>> 
+====================================== RESTART: C:\Users\Preethika.Lakshmanan\AppData\Local\Programs\Python\Python39\harddisk.py ======================================
+hello-ever
+{'description': 'realme c20', 'price': '34000', 'rating': '4.5'}
+{'description': 'realme c20', 'price': '34000', 'rating': '4.5'}
+{'description': 'realme c2', 'price': '16000', 'rating': '4.5'}
+{'description': 'realme c2', 'price': '16000', 'rating': '4.5'}
+{'description': 'redmi', 'price': '30000', 'rating': '4.3'}
+{'description': 'redmi', 'price': '30000', 'rating': '4.3'}
+kill problems with smile
+good empty pocket
+>>> running(val=1,val1=2)
+val
+val1
+>>>
+
+we are coders
+escaped from oops 
+
+
+
+
+"'
+
+class hacker:
+    def __init__(self,d):                           #init method
+        self.website="flipkart"
+        self.data=d
+    def theft(self):
+        print(self.data)
+    def __add__(self,h):
+        lakshm=[]
+        lakshman=hacker([{"name":"akil","accno":2938012420},{"name":"abdul","accno":1234567890}])
+        lakshm.append(self)
+        lakshm.append(h)
+        print("I am a hacker")
+        return lakshm
+
+preethi=hacker([{"name":"abi","accno":2938012420},{"name":"amul","accno":1234567890}])
+hacker.theft()
+priya=hacker([{"name":"aathi","accno":9878012420},{"name":"arun","accno":5432167890}])
+laksh=priya+preethi
+'"
